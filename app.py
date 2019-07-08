@@ -18,6 +18,6 @@ for score in Rosberg_Hamilton_score:
     Roseberg_points = Roseberg_points + points_per_position[score[1]]
     Hamilton_points = Hamilton_points + points_per_position[score[2]]
     print(
-        f"          {score[0]}               {Roseberg_points}               {Hamilton_points}       ")
+        f"          {score[0]}               ({score[1]}) {Roseberg_points}               ({score[2]}) {Hamilton_points}       ")
 
 print("────────────────────────────────────────────────────────")
