@@ -20,4 +20,4 @@ for score in Rosberg_Hamilton_score:
     print(
         f"          {score[0]}               ({score[1]}) {Roseberg_points}               ({score[2]}) {Hamilton_points}        {Roseberg_points - Hamilton_points}")
 
-print("────────────────────────────────────────────────────────")
+print("───────────────────────────────────────────────────────────────────────────")
