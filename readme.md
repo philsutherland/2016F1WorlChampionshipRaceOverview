@@ -1,2 +1,2 @@
 # 2016 F1 World Championship Race Overview
-This simple program provides a quick overview of the individual race finishes of Nico Rosberg and Lewis Hamilton as well as their culmulative point differences.
+This simple program provides a quick overview of the individual race finishes of Nico Rosberg and Lewis Hamilton as well as their culmulative point differences throughout the season.
