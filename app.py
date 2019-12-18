@@ -24,3 +24,6 @@ for score in Rosberg_Hamilton_score:
     print(
         "| {:^19} | ({}) {:^8} | ({}) {:^10} | {:^+26} |".format(score[0], score[1], Rosberg_points, score[2], Hamilton_points, Rosberg_points - Hamilton_points))
 print("────────────────────────────────────────────────────────────────────────────────────")
+
+# This code is needed for .exe file
+temp = input("Do you like this program? (y/n): ")
